@@ -1,0 +1,5 @@
+# Copiar esta línea al principio del todo del fichero .bashrc
+[[ $- == *i* ]] && source ~/.local/share/blesh/ble.sh --noattach
+
+# Copiar esta línea al final del todo del fichero .bashrc
+[[ ! ${BLE_VERSION-} ]] || ble-attach
