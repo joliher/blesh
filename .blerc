@@ -1,0 +1,12 @@
+# Configuración de ble.sh
+bleopt highlight_syntax=
+bleopt complete_auto_complete=
+bleopt complete_auto_history=
+bleopt complete_menu_complete=
+bleopt prompt_eol_mark=''
+bleopt exec_errexit_mark=
+bleopt exec_elapsed_mark=
+bleopt exec_exit_mark=
+
+bleopt prompt_ps1_final='$(starship module character)'
+bleopt prompt_rps1_final='$(starship module time)'
