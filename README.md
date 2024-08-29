@@ -1,6 +1,6 @@
 # blesh
 Esta configuración está pensada para mejorar el rendimiento deshabilitando la mayoría <br>
-de opciones de ble.sh y para combinarse con Starship.
+de opciones de ble.sh y para combinarse con Starship. <br>
 Contiene 2 archivos, el "ble.txt" y el ".blerc"
 <br><br>
 El fichero "ble.txt" está compuesto de 2 líneas que deben añadirse al inicio y <br>
